@@ -83,4 +83,4 @@ Em outro terminal:
 
 ---
 
-Siga esses passos para cada projeto para garantir a configuração e execução adequadas. Para mais informações ou personalizações, consulte a documentação específica de cada repositório.
+Desenvolvido por Ólin Medeiros COsta
