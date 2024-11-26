@@ -1,0 +1,4 @@
+Invoking command in '/home/zoli/github/ponderada1/build/bolin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zoli/github/cg/install/cg:/opt/ros/jazzy /usr/bin/cmake --build /home/zoli/github/ponderada1/build/bolin -- -j22 -l22
+Invoked command in '/home/zoli/github/ponderada1/build/bolin' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zoli/github/cg/install/cg:/opt/ros/jazzy /usr/bin/cmake --build /home/zoli/github/ponderada1/build/bolin -- -j22 -l22
+Invoking command in '/home/zoli/github/ponderada1/build/bolin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zoli/github/cg/install/cg:/opt/ros/jazzy /usr/bin/cmake --install /home/zoli/github/ponderada1/build/bolin
+Invoked command in '/home/zoli/github/ponderada1/build/bolin' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zoli/github/cg/install/cg:/opt/ros/jazzy /usr/bin/cmake --install /home/zoli/github/ponderada1/build/bolin

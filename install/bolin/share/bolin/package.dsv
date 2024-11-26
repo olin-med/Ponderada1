@@ -1,0 +1,8 @@
+source;share/bolin/hook/cmake_prefix_path.ps1
+source;share/bolin/hook/cmake_prefix_path.dsv
+source;share/bolin/hook/cmake_prefix_path.sh
+source;share/bolin/local_setup.bash
+source;share/bolin/local_setup.dsv
+source;share/bolin/local_setup.ps1
+source;share/bolin/local_setup.sh
+source;share/bolin/local_setup.zsh

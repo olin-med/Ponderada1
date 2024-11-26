@@ -1,0 +1,25 @@
+-- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found std_msgs: 5.3.5 (/opt/ros/jazzy/share/std_msgs/cmake)
+-- Found cg_interfaces: 0.0.0 (/home/zoli/github/cg/install/cg_interfaces/share/cg_interfaces/cmake)
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/zoli/github/ponderada1/build/bolin
+[ 50%] [32mBuilding CXX object CMakeFiles/main.dir/src/reactive_nav.cpp.o[0m
+[01m[K/home/zoli/github/ponderada1/src/bolin/src/reactive_nav.cpp:[m[K In function ‘[01m[Kint[01;32m[K main[m[K(int, char**)[m[K’:
+[01m[K/home/zoli/github/ponderada1/src/bolin/src/reactive_nav.cpp:301:24:[m[K [01;31m[Kerror: [m[K‘[01m[Kbool NavegadorLabirinto::mapa_pronto_[m[K’ is private within this context
+  301 |     while (!navegador->[01;31m[Kmapa_pronto_[m[K)
+      |                        [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/zoli/github/ponderada1/src/bolin/src/reactive_nav.cpp:287:10:[m[K [01;36m[Knote: [m[Kdeclared private here
+  287 |     bool [01;36m[Kmapa_pronto_[m[K = false;
+      |          [01;36m[K^~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/main.dir/build.make:76: CMakeFiles/main.dir/src/reactive_nav.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/main.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

@@ -1,0 +1,30 @@
+[0.006s] Invoking command in '/home/zoli/github/ponderada1/build/bolin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zoli/github/cg/install/cg:/opt/ros/jazzy /usr/bin/cmake --build /home/zoli/github/ponderada1/build/bolin -- -j22 -l22
+[0.029s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.184s] -- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.210s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.217s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.227s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.237s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.291s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.292s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.352s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.395s] -- Found std_msgs: 5.3.5 (/opt/ros/jazzy/share/std_msgs/cmake)
+[0.405s] -- Found cg_interfaces: 0.0.0 (/home/zoli/github/cg/install/cg_interfaces/share/cg_interfaces/cmake)
+[0.471s] -- Configuring done (0.4s)
+[0.473s] [31mCMake Error at CMakeLists.txt:18 (add_executable):
+[0.473s]   Cannot find source file:
+[0.473s] 
+[0.473s]     src/react_nav.cpp
+[0.473s] 
+[0.473s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm
+[0.473s]   .ccm .cxxm .c++m .h .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90
+[0.473s]   .f95 .f03 .hip .ispc
+[0.474s] 
+[0.474s] [0m
+[0.475s] [31mCMake Error at CMakeLists.txt:18 (add_executable):
+[0.475s]   No SOURCES given to target: main
+[0.475s] 
+[0.475s] [0m
+[0.475s] [0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m
+[0.480s] gmake: *** [Makefile:267: cmake_check_build_system] Error 1
+[0.482s] Invoked command in '/home/zoli/github/ponderada1/build/bolin' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zoli/github/cg/install/cg:/opt/ros/jazzy /usr/bin/cmake --build /home/zoli/github/ponderada1/build/bolin -- -j22 -l22

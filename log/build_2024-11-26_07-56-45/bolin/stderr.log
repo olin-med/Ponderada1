@@ -1,0 +1,10 @@
+[01m[K/home/zoli/github/ponderada1/src/bolin/src/reactive_nav.cpp:[m[K In function ‘[01m[Kint[01;32m[K main[m[K(int, char**)[m[K’:
+[01m[K/home/zoli/github/ponderada1/src/bolin/src/reactive_nav.cpp:301:24:[m[K [01;31m[Kerror: [m[K‘[01m[Kbool NavegadorLabirinto::mapa_pronto_[m[K’ is private within this context
+  301 |     while (!navegador->[01;31m[Kmapa_pronto_[m[K)
+      |                        [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/zoli/github/ponderada1/src/bolin/src/reactive_nav.cpp:287:10:[m[K [01;36m[Knote: [m[Kdeclared private here
+  287 |     bool [01;36m[Kmapa_pronto_[m[K = false;
+      |          [01;36m[K^~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/main.dir/build.make:76: CMakeFiles/main.dir/src/reactive_nav.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/main.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

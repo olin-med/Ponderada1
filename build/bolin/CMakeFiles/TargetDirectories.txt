@@ -1,0 +1,10 @@
+/home/zoli/github/ponderada1/build/bolin/CMakeFiles/uninstall.dir
+/home/zoli/github/ponderada1/build/bolin/CMakeFiles/bolin_uninstall.dir
+/home/zoli/github/ponderada1/build/bolin/CMakeFiles/main.dir
+/home/zoli/github/ponderada1/build/bolin/CMakeFiles/test.dir
+/home/zoli/github/ponderada1/build/bolin/CMakeFiles/edit_cache.dir
+/home/zoli/github/ponderada1/build/bolin/CMakeFiles/rebuild_cache.dir
+/home/zoli/github/ponderada1/build/bolin/CMakeFiles/list_install_components.dir
+/home/zoli/github/ponderada1/build/bolin/CMakeFiles/install.dir
+/home/zoli/github/ponderada1/build/bolin/CMakeFiles/install/local.dir
+/home/zoli/github/ponderada1/build/bolin/CMakeFiles/install/strip.dir

@@ -1,0 +1,16 @@
+/home/zoli/github/ponderada1/install/bolin/lib/bolin/main
+/home/zoli/github/ponderada1/install/bolin/share/ament_index/resource_index/package_run_dependencies/bolin
+/home/zoli/github/ponderada1/install/bolin/share/ament_index/resource_index/parent_prefix_path/bolin
+/home/zoli/github/ponderada1/install/bolin/share/bolin/environment/ament_prefix_path.sh
+/home/zoli/github/ponderada1/install/bolin/share/bolin/environment/ament_prefix_path.dsv
+/home/zoli/github/ponderada1/install/bolin/share/bolin/environment/path.sh
+/home/zoli/github/ponderada1/install/bolin/share/bolin/environment/path.dsv
+/home/zoli/github/ponderada1/install/bolin/share/bolin/local_setup.bash
+/home/zoli/github/ponderada1/install/bolin/share/bolin/local_setup.sh
+/home/zoli/github/ponderada1/install/bolin/share/bolin/local_setup.zsh
+/home/zoli/github/ponderada1/install/bolin/share/bolin/local_setup.dsv
+/home/zoli/github/ponderada1/install/bolin/share/bolin/package.dsv
+/home/zoli/github/ponderada1/install/bolin/share/ament_index/resource_index/packages/bolin
+/home/zoli/github/ponderada1/install/bolin/share/bolin/cmake/bolinConfig.cmake
+/home/zoli/github/ponderada1/install/bolin/share/bolin/cmake/bolinConfig-version.cmake
+/home/zoli/github/ponderada1/install/bolin/share/bolin/package.xml

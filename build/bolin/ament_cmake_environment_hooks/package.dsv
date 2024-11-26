@@ -1,0 +1,4 @@
+source;share/bolin/local_setup.bash
+source;share/bolin/local_setup.dsv
+source;share/bolin/local_setup.sh
+source;share/bolin/local_setup.zsh

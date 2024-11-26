@@ -1,0 +1,27 @@
+[0.006s] Invoking command in '/home/zoli/github/ponderada1/build/bolin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zoli/github/cg/install/cg:/opt/ros/jazzy /usr/bin/cmake --build /home/zoli/github/ponderada1/build/bolin -- -j22 -l22
+[0.023s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.147s] -- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.162s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.167s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.173s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.181s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.216s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.217s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.259s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.300s] -- Found std_msgs: 5.3.5 (/opt/ros/jazzy/share/std_msgs/cmake)
+[0.308s] -- Found cg_interfaces: 0.0.0 (/home/zoli/github/cg/install/cg_interfaces/share/cg_interfaces/cmake)
+[0.366s] -- Configuring done (0.3s)
+[0.376s] -- Generating done (0.0s)
+[0.377s] -- Build files have been written to: /home/zoli/github/ponderada1/build/bolin
+[0.401s] [ 50%] [32mBuilding CXX object CMakeFiles/main.dir/src/reactive_nav.cpp.o[0m
+[1.872s] [01m[K/home/zoli/github/ponderada1/src/bolin/src/reactive_nav.cpp:[m[K In function ‘[01m[Kint[01;32m[K main[m[K(int, char**)[m[K’:
+[1.873s] [01m[K/home/zoli/github/ponderada1/src/bolin/src/reactive_nav.cpp:301:24:[m[K [01;31m[Kerror: [m[K‘[01m[Kbool NavegadorLabirinto::mapa_pronto_[m[K’ is private within this context
+[1.873s]   301 |     while (!navegador->[01;31m[Kmapa_pronto_[m[K)
+[1.873s]       |                        [01;31m[K^~~~~~~~~~~~[m[K
+[1.873s] [01m[K/home/zoli/github/ponderada1/src/bolin/src/reactive_nav.cpp:287:10:[m[K [01;36m[Knote: [m[Kdeclared private here
+[1.873s]   287 |     bool [01;36m[Kmapa_pronto_[m[K = false;
+[1.873s]       |          [01;36m[K^~~~~~~~~~~~[m[K
+[2.651s] gmake[2]: *** [CMakeFiles/main.dir/build.make:76: CMakeFiles/main.dir/src/reactive_nav.cpp.o] Error 1
+[2.652s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/main.dir/all] Error 2
+[2.652s] gmake: *** [Makefile:146: all] Error 2
+[2.654s] Invoked command in '/home/zoli/github/ponderada1/build/bolin' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zoli/github/cg/install/cg:/opt/ros/jazzy /usr/bin/cmake --build /home/zoli/github/ponderada1/build/bolin -- -j22 -l22

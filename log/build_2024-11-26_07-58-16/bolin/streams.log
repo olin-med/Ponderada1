@@ -1,0 +1,25 @@
+[0.006s] Invoking command in '/home/zoli/github/ponderada1/build/bolin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zoli/github/cg/install/cg:/opt/ros/jazzy /usr/bin/cmake --build /home/zoli/github/ponderada1/build/bolin -- -j22 -l22
+[0.046s] [ 50%] [32mBuilding CXX object CMakeFiles/main.dir/src/reactive_nav.cpp.o[0m
+[3.249s] [100%] [32m[1mLinking CXX executable main[0m
+[3.365s] [100%] Built target main
+[3.372s] Invoked command in '/home/zoli/github/ponderada1/build/bolin' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zoli/github/cg/install/cg:/opt/ros/jazzy /usr/bin/cmake --build /home/zoli/github/ponderada1/build/bolin -- -j22 -l22
+[3.395s] Invoking command in '/home/zoli/github/ponderada1/build/bolin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zoli/github/cg/install/cg:/opt/ros/jazzy /usr/bin/cmake --install /home/zoli/github/ponderada1/build/bolin
+[3.400s] -- Install configuration: ""
+[3.400s] -- Installing: /home/zoli/github/ponderada1/install/bolin/lib/bolin/main
+[3.401s] -- Set non-toolchain portion of runtime path of "/home/zoli/github/ponderada1/install/bolin/lib/bolin/main" to ""
+[3.401s] -- Up-to-date: /home/zoli/github/ponderada1/install/bolin/share/ament_index/resource_index/package_run_dependencies/bolin
+[3.401s] -- Installing: /home/zoli/github/ponderada1/install/bolin/share/ament_index/resource_index/parent_prefix_path/bolin
+[3.401s] -- Up-to-date: /home/zoli/github/ponderada1/install/bolin/share/bolin/environment/ament_prefix_path.sh
+[3.401s] -- Up-to-date: /home/zoli/github/ponderada1/install/bolin/share/bolin/environment/ament_prefix_path.dsv
+[3.401s] -- Up-to-date: /home/zoli/github/ponderada1/install/bolin/share/bolin/environment/path.sh
+[3.401s] -- Up-to-date: /home/zoli/github/ponderada1/install/bolin/share/bolin/environment/path.dsv
+[3.401s] -- Up-to-date: /home/zoli/github/ponderada1/install/bolin/share/bolin/local_setup.bash
+[3.401s] -- Up-to-date: /home/zoli/github/ponderada1/install/bolin/share/bolin/local_setup.sh
+[3.401s] -- Up-to-date: /home/zoli/github/ponderada1/install/bolin/share/bolin/local_setup.zsh
+[3.401s] -- Up-to-date: /home/zoli/github/ponderada1/install/bolin/share/bolin/local_setup.dsv
+[3.402s] -- Installing: /home/zoli/github/ponderada1/install/bolin/share/bolin/package.dsv
+[3.402s] -- Up-to-date: /home/zoli/github/ponderada1/install/bolin/share/ament_index/resource_index/packages/bolin
+[3.402s] -- Up-to-date: /home/zoli/github/ponderada1/install/bolin/share/bolin/cmake/bolinConfig.cmake
+[3.402s] -- Up-to-date: /home/zoli/github/ponderada1/install/bolin/share/bolin/cmake/bolinConfig-version.cmake
+[3.402s] -- Up-to-date: /home/zoli/github/ponderada1/install/bolin/share/bolin/package.xml
+[3.403s] Invoked command in '/home/zoli/github/ponderada1/build/bolin' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zoli/github/cg/install/cg:/opt/ros/jazzy /usr/bin/cmake --install /home/zoli/github/ponderada1/build/bolin
